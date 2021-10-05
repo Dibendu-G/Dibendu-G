@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dibendu Ghosh</h1>
 <h3 align="center">Aspiring Java Developer from India</h3>
 
-<img align="right" alt="Coding" width="350" height="260" src="https://cdn.dribbble.com/users/2008861/screenshots/15526868/media/75d00bc49c493701ec1a0cd51da86a8e.gif">
+<img align="right" alt="Coding" width="350"  src="https://cdn.dribbble.com/users/2008861/screenshots/15526868/media/75d00bc49c493701ec1a0cd51da86a8e.gif">
 
 <p align="left"> <a href="https://twitter.com/dibendu91674260" target="blank"><img src="https://img.shields.io/twitter/follow/dibendu91674260?logo=twitter&style=for-the-badge" alt="dibendu91674260" /></a> </p>
 
