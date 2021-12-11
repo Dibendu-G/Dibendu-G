@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dibendu Ghosh</h1>
+<h1 align="center">Hi 👋, I'm Dibendu</h1>
 <h3 align="center">Aspiring Java Developer from India</h3>
 
 <img align="right" alt="Coding" width="350"  src="https://cdn.dribbble.com/users/1418633/screenshots/5106121/media/3aa72ddc5f7c08d7fafab000eb7c4973.gif">
