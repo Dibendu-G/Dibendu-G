@@ -94,7 +94,7 @@ Hands-on experience with **legacy modernization, cloud migrations, and productio
 - 🌍 **Website:** <a href="https://www.dibendu.in" target="_blank">www.dibendu.in</a>  
 - 💼 **LinkedIn:** <a href="https://linkedin.com/in/dibendu-ghosh-822837190" target="_blank">Dibendu Ghosh</a>  
 - 🧑‍💻 **GitHub:** <a href="https://github.com/Dibendu-G" target="_blank">Dibendu-G</a>  
-- 📧 **Email:** dibendughosh12@gmail.com  
+- 📧 **Email:** dev.dibendu@gmail.com  
 
 ---
 
